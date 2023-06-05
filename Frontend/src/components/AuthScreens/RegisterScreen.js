@@ -68,7 +68,7 @@ const RegisterScreen = () => {
           </div>
 
           <div className="top-register-explain">
-            <h2>Bienvenue sur Story Teller</h2>
+            <h2>Bienvenue sur The Story Teller</h2>
 
             <p>
             Partagez facilement et gratuitement vos histoires sur n'importe quel sujet et connectez-vous avec des milliers de lecteurs.
